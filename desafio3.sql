@@ -1,1 +1,1 @@
-SELECT id FROM northwindBKP.products;
+SELECT id FROM northwind.products;
